@@ -1,0 +1,46 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+img{
+	width:100%;
+}
+.container{
+	width:90%;
+	margin:0 auto;
+	
+}
+.row{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	margin-top:20px;
+
+}
+.col-6{
+	width:50%;
+	padding:0px 15px;
+}
+.col-12{
+	width:100%;
+	padding:0px 15px;
+}
+.icon{
+	color:gold;
+	padding:0px 10px;
+}
+.second {
+	padding:10px 0px;
+	display:flex;
+	justify-content:center;
+}
+p{
+	padding:10px 0px;
+	font-weight:500;
+	color:#d5d3cb;
+
+}
+
+
